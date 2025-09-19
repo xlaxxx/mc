@@ -11,7 +11,7 @@ local lowestFieldPercent = 12
 local activateOnCharged = 1
 
 -- please leave things untouched from here on
-os.loadAPI("lib/f")
+os.loadAPI("lib/f.lua")
 
 local version = "0.3"
 -- toggleable via the monitor, use our algorithm to achieve our target field strength or let the user tweak it
