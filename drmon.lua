@@ -1,7 +1,7 @@
 -- modifiable variables
 local reactor = "back"
-local outputFluxGate = "flow_gate_2"
-local inputFluxGate = "flow_gate_3"
+local outputFluxGate = "flow_gate_1"
+local inputFluxGate = "flow_gate_2"
 
 local targetStrength = 30
 local maxTemperature = 8000
